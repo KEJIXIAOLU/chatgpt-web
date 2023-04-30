@@ -17,7 +17,7 @@
 ## 准备工作
 1、准备好你的 [OpenAI API Key](https://platform.openai.com/account/api-keys);
 
-2、域名一个（没有域名请到[Namesilo购买域名](www.namesilo.com )），虽然不是必须的，但有自己的域名好处多多，具体如下：
+2、域名一个：没有域名请到[Namesilo购买域名](www.namesilo.com )，虽然不是必须的，但有自己的域名好处多多，具体如下：
 
 - 使用下面用到的Vercel部署时，其自带的域名在中国大陆地区有可能是被封禁的，使用自己的域名即可无障碍直连访问；
 
